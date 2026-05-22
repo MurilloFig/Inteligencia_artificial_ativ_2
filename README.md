@@ -1,1 +1,1 @@
-# Inteligencia_artificial_ativ_2
+# Atividade 2 Inteligência Artificial
